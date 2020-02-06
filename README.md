@@ -1,2 +1,0 @@
-# libusb
-USB library
